@@ -1,0 +1,1 @@
+include ':app', ':thread', ':handlerandthread', ':serviceaidl', ':clientaidl', ':boundservices', ':ndk_practice'

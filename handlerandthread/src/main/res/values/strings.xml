@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HandlerAndThread</string>
+    <string name="uploading">Uploading</string>
+</resources>

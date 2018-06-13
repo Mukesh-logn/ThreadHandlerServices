@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ThreadAndHandler.iml" filepath="$PROJECT_DIR$/ThreadAndHandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boundservices/boundservices.iml" filepath="$PROJECT_DIR$/boundservices/boundservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientaidl/clientaidl.iml" filepath="$PROJECT_DIR$/clientaidl/clientaidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handlerandthread/handlerandthread.iml" filepath="$PROJECT_DIR$/handlerandthread/handlerandthread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndk_practice/ndk_practice.iml" filepath="$PROJECT_DIR$/ndk_practice/ndk_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceaidl/serviceaidl.iml" filepath="$PROJECT_DIR$/serviceaidl/serviceaidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+    </modules>
+  </component>
+</project>
