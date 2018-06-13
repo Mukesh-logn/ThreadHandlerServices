@@ -6,3 +6,16 @@
 .DS_Store
 /build
 /captures
+
+[http]
+    proxy = http://YOUR_PROXY_USERNAME:YOUR_PROXY_PASSWORD@YOUR.PROXY.SERVER:YOUR.PROXY.SERVER.PORT
+    sslverify = false
+[https]
+    proxy = http://YOUR_PROXY_USERNAME:YOUR_PROXY_PASSWORD@YOUR.PROXY.SERVER:YOUR.PROXY.SERVER.PORT
+    sslverify = false
+[url "http://github.com/"]
+    insteadOf = git://github.com/
+
+[user]
+    name = Arpit Aggarwal
+    email = aggarwalarpit.89@gmail.com
